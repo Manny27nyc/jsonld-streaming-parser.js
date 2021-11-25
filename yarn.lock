@@ -2407,6 +2407,18 @@ jsonld-context-parser@^2.0.2, jsonld-context-parser@^2.1.3:
     http-link-header "^1.0.2"
     relative-to-absolute-iri "^1.0.5"
 
+jsonld-context-parser@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/jsonld-context-parser/-/jsonld-context-parser-2.1.5.tgz#07f8632ce5c29072c5f91295044ab31761e84fa9"
+  integrity sha512-rsu5hB6bADa511l0QhG4lndAqlN7PQ4wsS0UKqLWUKg1GUQqYmh2SNfbwXiRiHZRJqhvCNqv9/5tQ3zzk4hMtg==
+  dependencies:
+    "@types/http-link-header" "^1.0.1"
+    "@types/node" "^13.1.0"
+    canonicalize "^1.0.1"
+    cross-fetch "^3.0.6"
+    http-link-header "^1.0.2"
+    relative-to-absolute-iri "^1.0.5"
+
 jsonld-streaming-parser@^2.1.0:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/jsonld-streaming-parser/-/jsonld-streaming-parser-2.3.3.tgz#1ea607d7b770e7b9130f3da3f24faa9cd9031de8"
