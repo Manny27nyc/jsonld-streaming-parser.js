@@ -29,7 +29,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@rdfjs/types": "*",
+    "@rdfjs/types": "1.1.0",
     "@types/http-link-header": "^1.0.1",
     "canonicalize": "^1.0.1",
     "http-link-header": "^1.0.2",
